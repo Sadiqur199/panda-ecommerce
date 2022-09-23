@@ -1,0 +1,75 @@
+#carousel{
+  --bs-gutter-x: 0rem;
+}
+
+.nav-deg a{
+  color: white;
+}
+.nav-deg a:hover{
+  color: blue;
+}
+.panda-bg-info{
+  background-color: rgb(255, 99, 71, 0.5);
+}
+/* card design  */
+.c-bg{
+    background-color: rgb(0, 0, 255)    ;
+
+}
+.c-bg-1{
+  background-color: rgb(238, 130, 238)  ;
+}
+.c-bg-2{
+  background-color: rgb(1255,215,0)  ;
+}
+.c-bg,.c-bg-1,.c-bg-2{
+  padding: 20px 50px;
+  border-radius: 10px;
+}
+/* card design end  */
+.footer-deg{
+  height: 50%;
+}
+.navbar-deg{
+  height: 40%;
+}
+.carousel-bag{
+  background-color: rgb(255,105,180);
+}
+.footer-bag{
+  background-color: rgb(255,105,180);
+}
+
+
+
+.orange-bagraound{
+  background-color: #fceae8;
+}
+
+.carousel-item
+{
+  padding: 20px 40px ;
+}
+.color{
+  font-size: 50px;
+  color: #FF136F;
+}
+.container{
+  margin-bottom: 100px;
+}
+.categories img{
+  width: 100px;
+}
+.card{
+  border: none;
+  box-shadow: 5px 5px 10px;
+}
+#subcribe{
+  height: 300px;
+}
+#subcribe h6{
+  color: gray;
+}
+.button-deg-1{
+  background-color: #FF136F;
+}
